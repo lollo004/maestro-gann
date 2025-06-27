@@ -25,7 +25,7 @@ This repository explores **AI-driven music generation** using Generative Adversa
 ---
 
 ### Setup Instructions
-**Python 3.9–3.11 required**  
+**Python 3.12 required**  
 
 1. **Create virtual environment**:
    ```bash
